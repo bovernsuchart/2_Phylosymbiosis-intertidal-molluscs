@@ -1,0 +1,4 @@
+#NEXUS
+begin trees;
+	tree tree1 = [&R] (((('Isognomon nucleus':472.946,('Saccostrea cucullata':101.292,'Saccostrea mordax':101.292):371.654):7.757,'Mytilisepta virgata':480.703):7.757,'Barbatia virescens':488.46):92.2055,('Cellana toreuma':398.34,(('Siphonaria laciniosa':384.948,(('Tenguella musiva':133.82,'Reishia clavigera':133.82):200.338,('Echinolittorina radiata':23.486,'Echinolittorina malaccana':23.486):310.672):50.79):6.696,('Monodonta labio':266.21,'Lunella granulata':266.21):132.13):6.696):184.411);
+end;
